@@ -12,3 +12,7 @@ Este repositório foi criado como parte do Bootcamp I (2025) do curso de Ciênci
 # Integrações
 
 - GitHub: https://github.com/dcastroz/portfolio-davi-castro
+<<<<<<< HEAD
+=======
+- linkedin: https://www.linkedin.com/in/davi-castro-55868932a/
+>>>>>>> 124dd42 (Mensagem explicando o que foi alterado)
