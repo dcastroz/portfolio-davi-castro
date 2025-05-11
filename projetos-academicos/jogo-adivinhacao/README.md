@@ -9,5 +9,5 @@ Gerar um número aleatório entre 1 e 10 e permitir que o usuário tente adivinh
 
 ## ▶️ Como executar
 
-Abra o terminal e execute:
+Abra o terminal e execute
 
