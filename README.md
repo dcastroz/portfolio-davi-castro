@@ -15,3 +15,5 @@ Este repositório foi criado como parte do Bootcamp I (2025) do curso de Ciênci
 
 - linkedin: https://www.linkedin.com/in/davi-castro-55868932a/
 
+- GitHubPages: https://dcastroz.github.io/portfolio-davi-castro/
+
